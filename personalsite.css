@@ -1,0 +1,42 @@
+img {
+    height: 75px;
+    width: 75px;
+}
+
+a:link {
+    color: #720026; 
+}
+
+a:visited {
+    color: #087e8b; 
+}
+
+a:hover {
+    color: #e29578;
+}
+
+nav, a:active {
+    color: #720026;
+    text-decoration: none;
+}
+
+nav {
+    
+}
+
+.address {
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    background-color: #edf2f4;
+}
+
+.skills {
+    
+}
